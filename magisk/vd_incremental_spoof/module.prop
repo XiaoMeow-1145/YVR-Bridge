@@ -1,0 +1,6 @@
+id=vd_incremental_spoof
+name=VD YVR2 incremental compatibility
+version=1.0
+versionCode=1
+author=VD YVR2 compatibility contributors
+description=Boot-time incremental property workaround for the tested VD/YVR2 combination. Device-wide effect; see README.
